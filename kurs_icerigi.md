@@ -1,4 +1,4 @@
-# CSharp ile Nesne Yönelimli Programlama
+# C# ile Nesne Yönelimli Programlama
 
 ## Temel kavramlar
 + .NET ortamına ilişkin temel kavramlar (JIT, MSIL, CLR, CTS, CLS...)

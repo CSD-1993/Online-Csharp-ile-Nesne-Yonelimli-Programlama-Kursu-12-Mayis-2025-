@@ -6,9 +6,9 @@
 
 + Dersler Pazartesi, Çarşamba, Cuma günleri, 19:30-22:30 saatleri arasında (3'er saat) gerçekleştirilecektir.
 
-+ Kursta __CSharp__ programlama dilinin sentaks ve semantik yapısı ayrıntılı olarak öğretilmektedir.
++ Kursta __C#__ programlama dilinin sentaks ve semantik yapısı ayrıntılı olarak öğretilmektedir.
 
-+ Kursumuz sadece __CSharp__ dilini öğretmeyi değil, tüm programlama ortamları için temiz ve etkin kod yazma alışkanlığı kazandırmayı da amaçlamaktadır.
++ Kursumuz sadece __C#__ dilini öğretmeyi değil, tüm programlama ortamları için temiz ve etkin kod yazma alışkanlığı kazandırmayı da amaçlamaktadır.
 
 + Kurs süresince pek çok örnek program yazılacaktır.
 

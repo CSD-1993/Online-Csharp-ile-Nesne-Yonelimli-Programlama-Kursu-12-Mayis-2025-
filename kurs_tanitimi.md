@@ -22,7 +22,7 @@ Programın toplam süresi __180__ saattir.
 Dersler __Pazartesi - Çarşamba- Cuma__ günleri saat __19-30 – 22-30__ saatleri arasında __3__'er saat olarak yapılacaktır.
 
 ## Eğitim İçeriği
-__[Eğitim içeriğini bu bağlantıdan görebilirsiniz.](https://github.com/CSD-1993/Online-CSharp-ile-Nesne-Yonelimli-Programlama-Kursu-21-Kasim-2022/blob/main/kurs_icerigi.md)__
+__[Eğitim içeriğini bu bağlantıdan görebilirsiniz.](https://github.com/CSD-1993/Online-Csharp-ile-Nesne-Yonelimli-Programlama-Kursu-10-Mart-2025-/blob/main/kurs_icerigi.md)__
 
 ## Eğitmen
 Kurs __Aykut TAŞDELEN__ tarafından verilmektedir. 2002 yılından beridir sektörde eğitmenlik ve danışmanlık yapan Taşdelen, kurucusu olduğu QuantumLojik isimli firmada elektronik ve gömülü sistemler alanında faaliyet göstermektedir. 7 yıl boyunca özel bir üniversitede çeşitli lisans dersleri vermiştir. Halen profesyonel yazılımcılara yönelik kurumsal eğitimler vermektedir. Şimdiye dek 12 kitabı yayınlanmış olan Taşdelen, geçmişte 7 yıl Microsoft’tan üst üste MVP ödülü ve unvanı ile taltif edilmiştir. Aynı zamanda bilişim basını mensubu olan Taşdelen geçmişte PCWorld dergisinde yazarlık yapmış, halen ortağı olduğu TeknolojiDergisi.net haber portalı ve kanalında yayıncılık faaliyetlerini de sürdürmektedir. 
@@ -97,7 +97,7 @@ __C# ile Nesne Yönelimli Programlama__ kursu ilgili eğitim materyalleri progra
 + Kursumuzun toplam ücreti __KDV dahil 32.500 TL__'dir (Peşin ödemede __29.000 TL__’dir). Öğrenciler için kurs ücreti(öğrencilik durumunu belgelemeleri kaydıyla) __KDV dahil 29.000 TL__'dir (Peşin ödemede __26.000 TL__ ’dir). Kurs ücreti peşin ya da __3 taksit__ olarak ödenebilir
 + 
 ## Eğitim Programına Kayıt
-__[Katılım için önce ön kayıt yaptırmalısınız](https://us06web.zoom.us/meeting/register/tZYodemgqDMqH9MuobFy-HlqcyDaWFSRiz5Q  )__. Ön kayıt yaptırırken kendi isminizi ve e-posta adresinizi kullanmalısınız.
+__[Katılım için önce ön kayıt yaptırmalısınız](https://us06web.zoom.us/meeting/register/tZ0kdeyqrDspHNCQ9l7Rt-lms0dnPItKHH-z#/registration)__. Ön kayıt yaptırırken kendi isminizi ve e-posta adresinizi kullanmalısınız.
 
 ## Sık Sorulan Sorular
-__C# ile Nesne Yönelimli Programalama Kursu__ hakkında sormak istediğiniz soruların bir kısmının yanıtlarını [__sık sorulan sorular__](https://github.com/CSD-1993/Online-CSharp-ile-Nesne-Yonelimli-Programlama-Kursu-12-Mart-2022-/blob/main/sss.md) sayfasında bulabilirsiniz. Burada yanıtını bulamadığınız sorular için doğrudan __[_Aykut TAŞDELEN_ ile iletişime geçebilir](https://www.linkedin.com/in/aykuttasdelen/)__ ya da bir __[e-posta mesajı gönderebilirsiniz](mailto:aykuttasdelen@csystem.org)__
+__C# ile Nesne Yönelimli Programalama Kursu__ hakkında sormak istediğiniz soruların bir kısmının yanıtlarını [__sık sorulan sorular__](https://github.com/CSD-1993/Online-Csharp-ile-Nesne-Yonelimli-Programlama-Kursu-10-Mart-2025-/blob/main/sss.md) sayfasında bulabilirsiniz. Burada yanıtını bulamadığınız sorular için doğrudan __[_Aykut TAŞDELEN_ ile iletişime geçebilir](https://www.linkedin.com/in/aykuttasdelen/)__ ya da bir __[e-posta mesajı gönderebilirsiniz](mailto:aykuttasdelen@csystem.org)__

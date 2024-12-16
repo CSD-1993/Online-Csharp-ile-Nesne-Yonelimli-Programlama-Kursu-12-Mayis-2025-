@@ -86,7 +86,7 @@ Eğitim, danışmanlık ve/veya proje geliştirdiği kurumlar arasında aşağı
 
 + Öğrenciler hafta içi önceden belirlenmiş belirli saatlerde eğitmene danışabilir ve rehberlik hizmeti alabilirler.
 
-+ Eğitim dili Türkçe’dir. Programlama ve _CSharp_ Dili ile ilgili tüm terimlerin doğru İngilizce karşılıkları öğretilmekte, öğrenciler teknik ve doğru bir terminoloji kullanmaya teşvik edilmektedir.
++ Eğitim dili Türkçe’dir. Programlama ve _C#_ Dili ile ilgili tüm terimlerin doğru İngilizce karşılıkları öğretilmekte, öğrenciler teknik ve doğru bir terminoloji kullanmaya teşvik edilmektedir.
 
 + Öğrenciler kaçırdıkları dersleri ders tarihini izleyen 3 gün içinde kendilerine verilecek şifre ile _Vimeo_ üzerinden izleyebilirler.
 

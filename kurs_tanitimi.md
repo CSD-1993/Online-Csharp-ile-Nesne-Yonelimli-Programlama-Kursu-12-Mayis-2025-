@@ -1,4 +1,4 @@
-# Online CSharp ile Nesne Yönelimli Programlama Kursu
+# Online C# ile Nesne Yönelimli Programlama Kursu
 
 + Kurs [__C ve Sistem Programcıları Derneği__](http://www.csystem.org/) tarafından Sistem Bilgisayar İşbirliği ile düzenlenmektedir. 
 
@@ -78,7 +78,7 @@ Eğitim, danışmanlık ve/veya proje geliştirdiği kurumlar arasında aşağı
 [Boehringer Ingelheim]           
 
 ## Format
-+ __CSharp ile Nesne Yönelimli Programlama kursu*__ online olarak gerçek zamanlı verilmektedir. _Udemy, Pluralsight_ ve benzeri sitelerdeki eğitimlerle karıştırılmamalıdır. Derslerin izlenmesi için __[Zoom](https://zoom.us/)__ yazılımı kullanılmaktadır. Ders sırasında öğrenciler eğitmene soru sorabilirler.
++ __C# ile Nesne Yönelimli Programlama kursu*__ online olarak gerçek zamanlı verilmektedir. _Udemy, Pluralsight_ ve benzeri sitelerdeki eğitimlerle karıştırılmamalıdır. Derslerin izlenmesi için __[Zoom](https://zoom.us/)__ yazılımı kullanılmaktadır. Ders sırasında öğrenciler eğitmene soru sorabilirler.
 
 + Program boyunca öğrencilere belirli aralıklarla ödevler verilmekte ve öğrencilerin yaptığı ödevler için öğrencilere geri besleme yapılmaktadır.
 
@@ -91,7 +91,7 @@ Eğitim, danışmanlık ve/veya proje geliştirdiği kurumlar arasında aşağı
 + Öğrenciler kaçırdıkları dersleri ders tarihini izleyen 3 gün içinde kendilerine verilecek şifre ile _Vimeo_ üzerinden izleyebilirler.
 
 ## Eğitim Materyalleri
-__CSharp ile Nesne Yönelimli Programlama__ kursu ilgili eğitim materyalleri program süresince öğrencilerle paylaşılmaktadır. Derslerde yazılan tüm kodlar ve verilen ödevler katılımcılar ile _github ve dropbox_ üzerinden paylaşılmaktadır.
+__C# ile Nesne Yönelimli Programlama__ kursu ilgili eğitim materyalleri program süresince öğrencilerle paylaşılmaktadır. Derslerde yazılan tüm kodlar ve verilen ödevler katılımcılar ile _github ve dropbox_ üzerinden paylaşılmaktadır.
 
 ## Eğitim Ücreti
 + Kursumuzun toplam ücreti __KDV dahil 32.500 TL__'dir (Peşin ödemede __29.000 TL__’dir). Öğrenciler için kurs ücreti(öğrencilik durumunu belgelemeleri kaydıyla) __KDV dahil 29.000 TL__'dir (Peşin ödemede __26.000 TL__ ’dir). Kurs ücreti peşin ya da __3 taksit__ olarak ödenebilir
@@ -100,4 +100,4 @@ __CSharp ile Nesne Yönelimli Programlama__ kursu ilgili eğitim materyalleri pr
 __[Katılım için önce ön kayıt yaptırmalısınız](https://us06web.zoom.us/meeting/register/tZYodemgqDMqH9MuobFy-HlqcyDaWFSRiz5Q  )__. Ön kayıt yaptırırken kendi isminizi ve e-posta adresinizi kullanmalısınız.
 
 ## Sık Sorulan Sorular
-__CSharp ile Nesne Yönelimli Programalama Kursu__ hakkında sormak istediğiniz soruların bir kısmının yanıtlarını [__sık sorulan sorular__](https://github.com/CSD-1993/Online-CSharp-ile-Nesne-Yonelimli-Programlama-Kursu-12-Mart-2022-/blob/main/sss.md) sayfasında bulabilirsiniz. Burada yanıtını bulamadığınız sorular için doğrudan __[_Aykut TAŞDELEN_ ile iletişime geçebilir](https://www.linkedin.com/in/aykuttasdelen/)__ ya da bir __[e-posta mesajı gönderebilirsiniz](mailto:aykuttasdelen@csystem.org)__
+__C# ile Nesne Yönelimli Programalama Kursu__ hakkında sormak istediğiniz soruların bir kısmının yanıtlarını [__sık sorulan sorular__](https://github.com/CSD-1993/Online-CSharp-ile-Nesne-Yonelimli-Programlama-Kursu-12-Mart-2022-/blob/main/sss.md) sayfasında bulabilirsiniz. Burada yanıtını bulamadığınız sorular için doğrudan __[_Aykut TAŞDELEN_ ile iletişime geçebilir](https://www.linkedin.com/in/aykuttasdelen/)__ ya da bir __[e-posta mesajı gönderebilirsiniz](mailto:aykuttasdelen@csystem.org)__

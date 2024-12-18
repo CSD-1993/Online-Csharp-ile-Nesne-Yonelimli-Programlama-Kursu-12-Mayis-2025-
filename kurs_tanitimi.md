@@ -94,7 +94,7 @@ Eğitim, danışmanlık ve/veya proje geliştirdiği kurumlar arasında aşağı
 __C# ile Nesne Yönelimli Programlama__ kursu ilgili eğitim materyalleri program süresince öğrencilerle paylaşılmaktadır. Derslerde yazılan tüm kodlar ve verilen ödevler katılımcılar ile _github ve dropbox_ üzerinden paylaşılmaktadır.
 
 ## Eğitim Ücreti
-+ Kursumuzun toplam ücreti __KDV dahil 32.500 TL__'dir (Peşin ödemede __29.000 TL__’dir). Öğrenciler için kurs ücreti(öğrencilik durumunu belgelemeleri kaydıyla) __KDV dahil 29.000 TL__'dir (Peşin ödemede __26.000 TL__ ’dir). Kurs ücreti peşin ya da __3 taksit__ olarak ödenebilir
++ Kursumuzun toplam ücreti __KDV dahil 32.500 TL__'dir (Peşin ödemede __28.500 TL__’dir). Öğrenciler için kurs ücreti(öğrencilik durumunu belgelemeleri kaydıyla) __KDV dahil 29.000 TL__'dir (Peşin ödemede __25.000 TL__ ’dir). Kurs ücreti peşin ya da __3 taksit__ olarak ödenebilir
 + 
 ## Eğitim Programına Kayıt
 + [Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.](https://us06web.zoom.us/meeting/register/tZ0kdeyqrDspHNCQ9l7Rt-lms0dnPItKHH-z#/registration)

@@ -28,11 +28,11 @@ Ancak daha iyi verim almak için daha büyük bir ekrana sahip bir bilgisayar ku
 ### Kurstan yüksek verim almam için neler önerirsiniz?
 + Kurs programını düzenli olarak takip etmeli, devamsızlıktan kaçınmalısınız. Zorunlu nedenlerden derslere katılamadığınız durumlarda kaçırdığınız dersleri mutlaka telafi etmelisiniz.
 
- Katıldığınız her dersi mutlaka tekrar etmelisiniz. Ders dışında kodlamaya mutlaka zaman ayırmalısınız. Derste yazılan kodları gözden geçirmeli, onları kendiniz de yazmaya çalışmalısınız.
++ Katıldığınız her dersi mutlaka tekrar etmelisiniz. Ders dışında kodlamaya mutlaka zaman ayırmalısınız. Derste yazılan kodları gözden geçirmeli, onları kendiniz de yazmaya çalışmalısınız.
 
- Verilen ödevleri yapmaya çalışmalısınız.
++ Verilen ödevleri yapmaya çalışmalısınız.
 
- Anlamadığınız noktaları eğitmene sormalısınız.
++ Anlamadığınız noktaları eğitmene sormalısınız.
 
 + __C# ile Nesne Yönelimli Programlama Kursu__ çok kolay değil. Eğitimde şüphesiz zorlandığınız yerler olacak. Bu sizin moralinizi bozmamalı, motivasyonunuzu düşürmemeli. Eğer yeterli zaman ayırıp, çaba gösterirseniz zaman içinde her şey yerine oturacak. Biraz sabırlı olmalısınız.
 

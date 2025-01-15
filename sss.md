@@ -26,13 +26,13 @@ Evet kursumuza yurt dışı ya da şehir dışından katılabilirsiniz.
 Kursa katılanların önemli bir kısmı çalışan kişilerden oluşuyor. Derslerin daha erken bir saatte yapılması çalışan kişiler için uygun olmayabiliyor. Ders saatleri sizin için uygun değilse hafta sonu kurslarına katılabilirsiniz.
 
 ### Kurstan yüksek verim almam için neler önerirsiniz?
-+ Kurs programını düzenli olarak takip etmeli, devamsızlıktan kaçınmalısınız. Zorunlu nedenlerden derslere katılamadığınız durumlarda kaçırdığınız dersleri mutlaka telafi etmelisiniz.
+ Kurs programını düzenli olarak takip etmeli, devamsızlıktan kaçınmalısınız. Zorunlu nedenlerden derslere katılamadığınız durumlarda kaçırdığınız dersleri mutlaka telafi etmelisiniz.
 
-+ Katıldığınız her dersi mutlaka tekrar etmelisiniz. Ders dışında kodlamaya mutlaka zaman ayırmalısınız. Derste yazılan kodları gözden geçirmeli, onları kendiniz de yazmaya çalışmalısınız.
+ Katıldığınız her dersi mutlaka tekrar etmelisiniz. Ders dışında kodlamaya mutlaka zaman ayırmalısınız. Derste yazılan kodları gözden geçirmeli, onları kendiniz de yazmaya çalışmalısınız.
 
-+ Verilen ödevleri yapmaya çalışmalısınız.
+ Verilen ödevleri yapmaya çalışmalısınız.
 
-+ Anlamadığınız noktaları eğitmene sormalısınız.
+ Anlamadığınız noktaları eğitmene sormalısınız.
 
 + __C# ile Nesne Yönelimli Programlama Kursu__ çok kolay değil. Eğitimde şüphesiz zorlandığınız yerler olacak. Bu sizin moralinizi bozmamalı, motivasyonunuzu düşürmemeli. Eğer yeterli zaman ayırıp, çaba gösterirseniz zaman içinde her şey yerine oturacak. Biraz sabırlı olmalısınız.
 

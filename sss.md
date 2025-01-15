@@ -39,7 +39,7 @@ Ancak daha iyi verim almak için daha büyük bir ekrana sahip bir bilgisayar ku
 ### Dersleri kayıt edebilir miyim?
 + Dersleri kendi olanaklarınızla başkalarıyla paylaşmamak üzere kayıt edebilirsiniz. Derslerin izin alınmadan başkalarıyla paylaşılması, İnternet ortamında yayınlanması hukuki ve ticari yaptırımlara tabidir.
 
-## Daha önce programlama ile tanışmadım. Kursa katılmam uygun olur mu?
+### Daha önce programlama ile tanışmadım. Kursa katılmam uygun olur mu?
 + Eğer daha önce programlama ile tanışmadıysanız bu kursa katılmanız uygun olmayabilir. __C ve Sistem Programcıları Derneği__ tarafından düzenlenen __Programlamaya Giriş__ kursuna katlabilirsiniz.
 
 ### Kurs bitiminde sertifika alabilecek miyim?

@@ -2,7 +2,7 @@
 
 
 + Kurs [`C ve Sistem Programcıları Derneği`](http://www.csystem.org/) tarafından __"Sistem Bilgisayar"__ iş birliği ile düzenlenmektedir.
-+ Kurs __12 Mayıs 2025__ tarihinde başlayacaktır.
++ Kurs __23 Haziran 2025__ tarihinde başlayacaktır.
 + Kurs eğitmeni __Aykut Taşdelen__'dir.
 + __Kurs gerçek zamanlıdır.__ Önceden kayıt edilmiş derslerin izlenmesi biçiminde değildir. Öğrenciler ders sırasında eğitmene soru sorabilirler.
 + Toplam kurs süresi  __180__ saattir. 

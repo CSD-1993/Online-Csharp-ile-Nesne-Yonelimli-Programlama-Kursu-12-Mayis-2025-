@@ -1,4 +1,4 @@
-# Online-C#-ile-Nesne-Yonelimli-Programlama-Kursu-12-Mayıs-2025-
+# Online-C#-ile-Nesne-Yonelimli-Programlama-Kursu-23-Haziran-2025-
 
 
 + Kurs [`C ve Sistem Programcıları Derneği`](http://www.csystem.org/) tarafından __"Sistem Bilgisayar"__ iş birliği ile düzenlenmektedir.

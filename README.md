@@ -1,8 +1,8 @@
-# Online-C#-ile-Nesne-Yonelimli-Programlama-Kursu-23-Haziran-2025-
+# Online-C#-ile-Nesne-Yonelimli-Programlama-Kursu-4-Ağustos-2025-
 
 
 + Kurs [`C ve Sistem Programcıları Derneği`](http://www.csystem.org/) tarafından __"Sistem Bilgisayar"__ iş birliği ile düzenlenmektedir.
-+ Kurs __23 Haziran 2025__ tarihinde başlayacaktır.
++ Kurs __4 Ağustos 2025__ tarihinde başlayacaktır.
 + Kurs eğitmeni __Aykut Taşdelen__'dir.
 + __Kurs gerçek zamanlıdır.__ Önceden kayıt edilmiş derslerin izlenmesi biçiminde değildir. Öğrenciler ders sırasında eğitmene soru sorabilirler.
 + Toplam kurs süresi  __180__ saattir. 

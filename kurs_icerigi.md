@@ -1,4 +1,4 @@
-# C# ile Nesne Yönelimli Programlama
+# C# ile Nesne Yönelimli Programlama (180 Saat)
 
 ## Temel kavramlar
 + .NET ortamına ilişkin temel kavramlar (JIT, MSIL, CLR, CTS, CLS...)

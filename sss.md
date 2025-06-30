@@ -1,4 +1,4 @@
-# Online C# ile Nesne Yönelimli Programlama Kursu – Sık Sorulan Sorular
+# Online C# ile Nesne Yönelimli Programlama Kursu – 4 Ağustos 2025 - Sık Sorulan Sorular
 
 Aşağıda __Aykut TAŞDELEN__ tarafından verilen _Online C# ile Nesne Yönelimli Programlama Kursu_ ile ilgili katılımcıların çok sık sorduğu sorular yer alıyor. Bu sayfa okuyuculardan yeni sorular geldikçe güncellenmektedir.
 

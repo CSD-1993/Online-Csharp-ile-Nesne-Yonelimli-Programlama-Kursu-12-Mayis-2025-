@@ -1,4 +1,4 @@
-# Online C# ile Nesne Yönelimli Programlama Kursu-Genel Tanıtımı
+# Online C# ile Nesne Yönelimli Programlama Kursu - Genel Tanıtımı
 
 + Kurs [__C ve Sistem Programcıları Derneği__](http://www.csystem.org/) tarafından Sistem Bilgisayar İşbirliği ile düzenlenmektedir. 
 
